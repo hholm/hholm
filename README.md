@@ -1,8 +1,8 @@
 ### Hello! 🌊🚢
 I am a oceanography graduate student in the MIT and WHOI Joint Program. I am currently a PhD candidate in the WHOI Van Mooy Lab studying global factors effecting the biogeochemical cycling of lipids. I have worked previously in the Apprill Lab studying mircobes and fat in whale digestion. Here you can find my work on open source software tools that aim to improve enviromental mass spectrometry. I am currently the maintainer of the [LOBSTAHS](https://github.com/vanmooylipidomics/LOBSTAHS) package and am developing more screening tools as part of that workflow. 
-<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hholm&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 <!--
 **hholm/hholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
