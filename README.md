@@ -1,5 +1,5 @@
 ### Hello! 🌊🚢
-I am a oceanography researcher at Lamont-Doherty Earth Observatory (LDEO) in Columbia University. During my doctoral work with [MIT-WHOI](https://eaps.mit.edu/academic-programs/mit-whoi-joint-program/) I studied global factors affecting organic biogeochemical cycling in the surface ocean. Here you can find my work on open source software tools that aim to improve enviromental mass spectrometry. I am currently the maintainer of the [LOBSTAHS](https://github.com/vanmooylipidomics/LOBSTAHS) package and am developing more screening tools as part of that workflow. 
+I am a oceanography researcher at [Lamont-Doherty Earth Observatory (LDEO) in Columbia University](https://lamont.columbia.edu/). During my doctoral work with [MIT-WHOI](https://eaps.mit.edu/academic-programs/mit-whoi-joint-program/) I studied global factors affecting organic biogeochemical cycling in the surface ocean. Here you can find my work on open source software tools that aim to improve enviromental mass spectrometry. I am currently the maintainer of the [LOBSTAHS](https://github.com/vanmooylipidomics/LOBSTAHS) package and am developing more screening tools as part of that workflow. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hholm&show_icons=true&theme=react&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
